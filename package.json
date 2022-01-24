@@ -10,6 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.3",
     "react": "17.0.2",
     "react-native": "0.66.4"
   },
